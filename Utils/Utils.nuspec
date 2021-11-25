@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>lioncs.Utils</id>
+    <version>1.8</version>
+    <title>lioncs.Utils</title>
+    <authors>MLeon</authors>
+    <owners>MLeon</owners>
+    <licenseUrl>http://None</licenseUrl>
+    <projectUrl>http://None</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Gneral utils classes, mainly static</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Util Utils helpers</tags>
+  </metadata>
+</package>
